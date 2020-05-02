@@ -1,0 +1,18 @@
+.add_row {
+    position: absolute;
+    right: 0px;
+    color: green;
+    font-size: 18px;
+    cursor: pointer;
+    bottom: -10px;
+}
+
+.delete_row, .delete_row_exp {
+    position: absolute;
+    right: -10px;
+    color: #ff7676;
+    font-size: 18px;
+    cursor: pointer;
+    top: 0px;
+    display: none;
+}

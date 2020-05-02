@@ -1,0 +1,19 @@
+.about_main{}
+
+.about_desc{margin-top: 50px;}
+.about_desc h3 {
+    text-align: center;
+    border-bottom: 4px solid chocolate;
+}
+.about_desc p {
+    line-height: 25px;
+    color: seagreen;
+}
+
+.about_location_area{height: 700px}
+
+.location_main{}
+.location_main h3 {
+    text-align: center;
+    border-bottom: 5px solid coral;
+}

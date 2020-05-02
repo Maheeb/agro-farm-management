@@ -1,0 +1,168 @@
+.owl-nav {
+    position: absolute;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    top: 50%;
+    left: 0;
+    z-index: 1000;
+    width: 100%;
+    height: 0;
+}
+
+.owl-nav>div {
+    background: #1a3d63;
+    color: white;
+    z-index: 100;
+    width: 30px;
+    height: 40px;
+    cursor: pointer;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.owl-nav>div:hover {
+    background: #38c7f1;
+    color: #1a3d63;
+}
+
+@media (max-width: 1270px) {
+    .owl-nav .owl-prev {
+        left: -10px !important;
+    }
+    .owl-nav .owl-next {
+        right: -10px !important;
+    }
+}
+
+.owl-nav .owl-prev {
+    position: relative;
+    left: -35px;
+}
+
+.owl-nav .owl-next {
+    position: relative;
+    right: -35px;
+}
+
+/* Review */
+
+.reviews {
+    padding: 50px 0;
+    padding-bottom: 25px;
+}
+
+.reviews .owl-nav {
+    display: -webkit-box !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+}
+
+.reviews .container {
+    max-width: 1200px !important;
+}
+
+@media (min-width: 768px) {
+    .reviews .active.center .item {
+        -webkit-transform: scale(1.05);
+        -ms-transform: scale(1.05);
+        transform: scale(1.05);
+    }
+}
+
+.reviews .item {
+    padding: 15px 10px;
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+}
+
+.reviews .item .card {
+    border-radius: 0;
+    border: none;
+    -webkit-box-shadow: 0 0 10px 0 #999;
+    box-shadow: 0 0 10px 0 #999;
+    padding: 35px 0;
+}
+
+.reviews .item .card .info-col {
+    margin-bottom: 25px;
+    padding: 15px 25px;
+}
+
+.reviews .item .card .info-col .title {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.reviews .item .card .info-col .sub-title {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+@media (max-width: 580px) {
+    .reviews .item .card .title {
+        font-size: 14px !important;
+    }
+    .reviews .item .card .sub-title {
+        font-size: 12px !important;
+    }
+    .reviews .item .card li {
+        margin: 0 5px 0 0 !important;
+    }
+}
+
+.reviews .item .card ul {
+    padding: 0;
+    margin: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.reviews .item .card ul li {
+    padding: 0;
+    margin: 0 10px 0 0;
+    list-style: none;
+    color: #ffc400;
+}
+
+.reviews .item .card .p-col {
+    font-size: 14px;
+    font-weight: 400;
+    padding-left: 25px;
+}
+
+.reviews .item .card .img-col {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.reviews .item .card .img-col .user {
+    border-radius: 50%;
+    min-width: 80px;
+    min-height: 80px;
+    width: 80px;
+    height: 80px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+

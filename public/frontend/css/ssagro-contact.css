@@ -1,0 +1,29 @@
+.contact_main_area{height: 500px;background: honeydew;}
+
+.address{ }
+.address h3{
+
+    margin-top: 54px;
+    /* text-align: center; */
+    text-transform: uppercase;
+    font-family: fantasy;
+    padding-bottom: 51px;
+
+}
+.address p{
+
+    font-size: 15px;
+    font-family: initial;
+    line-height: 32px;
+}
+
+
+.contact_form{   }
+.contact_form h3{
+
+    margin-top: 54px;
+    /*text-align: center;*/
+    text-transform: uppercase;
+    font-family: fantasy;
+
+}
