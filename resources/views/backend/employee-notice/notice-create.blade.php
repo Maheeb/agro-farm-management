@@ -13,7 +13,7 @@
     <section class="product_area">
         <div class="container-fluid">
             <div class="col-md-12">
-                <h2 style="font-family: fantasy" class="text-center">Create Notices</h2><br><br>
+                <h2 style="font-family: fantasy" class="text-center">Create Noticess</h2><br><br>
                 @if(session('message'))
                     <div class="alert alert-info">
                         {{ session('message') }}
