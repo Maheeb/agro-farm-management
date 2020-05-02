@@ -148,7 +148,7 @@
     <div class="col-md-12">
 
     <div class="f_text">
-    <h4>&copy; SS AGRO All Rights Reserved 2020</h4>
+    <h4>&copy; AZMAEEN All Rights Reserved 2020</h4>
 
     </div>
 
