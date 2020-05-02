@@ -129,10 +129,10 @@
                         <h3 class="text-center">Rules and Regulations ( নিয়মাবলী )</h3>
 
                         <br>
-                        <p>১) আপনার তথ্য সমূহ নির্ভুলভাবে ইনপুট দিন ।</p>
-                        <p>২) ইনপুট দেওয়ার সময় মোবাইল নাম্বার ভালভাবে চেক করুন ।</p>
-                        <p>৩) সাবমিট করে কিছুক্ষন অপেক্ষা করুন ।</p>
-                        <p>৪) আপনার প্রদত্ত মোবাইল নাম্বারে আপনার সাথে যোগাযোগ করা হবে।</p>
+                        <p>1) Nullam rhoncus augue felis, vel eleifend risus lacinia vitae.</p>
+                        <p>2) Nullam rhoncus augue felis, vel eleifend risus lacinia vitae.</p>
+                        <p>3)Nullam rhoncus augue felis, vel eleifend risus lacinia vitae.</p>
+                        <p>4) Nullam rhoncus augue felis, vel eleifend risus lacinia vitae.</p>
                     </div>
 
 
