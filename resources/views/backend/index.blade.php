@@ -15,13 +15,13 @@
 
 
         <div class="admin_info">
-        <img width="200px" height="200px" src="{{asset('backend/img/safa.jpg')}}" alt="">
+        <img width="200px" height="200px" src="{{asset('backend/img/emp01.jpg')}}" alt="">
 
 
 
 
             <br><br>
-            <p><span style="font-family: italic;font-weight: bold; color: orangered">Name:</span>&nbsp;Abdullah Al Safa  </p>
+            <p><span style="font-family: italic;font-weight: bold; color: orangered">Name:</span>&nbsp;Paul Molive </p>
             <p><span style="font-family: italic;font-weight: bold; color: orangered">Designation:</span>&nbsp; Founder </p>
             <p><span style="font-family: italic;font-weight: bold; color: orangered">Address:</span>&nbsp;     Malibagh  </p>
             <p><span style="font-family: italic;font-weight: bold; color: orangered">Blood Group:</span>&nbsp;B+</p>
@@ -34,13 +34,13 @@
         @else
 
             <div class="admin_info">
-                <img width="200px" height="200px" src="{{asset('backend/img/shaju.jpg')}}" alt="">
+                <img width="200px" height="200px" src="{{asset('backend/img/emp-02.jpg')}}" alt="">
 
 
 
 
                 <br><br>
-                <p><span style="font-family: italic;font-weight: bold; color: orangered">Name:</span>&nbsp;Shaju Mollik  </p>
+                <p><span style="font-family: italic;font-weight: bold; color: orangered">Name:</span>&nbsp;Mario Speedwagon  </p>
                 <p><span style="font-family: italic;font-weight: bold; color: orangered">Designation:</span>&nbsp; Founder </p>
                 <p><span style="font-family: italic;font-weight: bold; color: orangered">Address:</span>&nbsp;     Mohammadpur  </p>
                 <p><span style="font-family: italic;font-weight: bold; color: orangered">Blood Group:</span>&nbsp;A+</p>

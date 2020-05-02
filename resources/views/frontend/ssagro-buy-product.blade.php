@@ -12,9 +12,9 @@
 
          <div class="col-md-3">
         <div class="sidebar">
-            <h3>ক্যাটাগরি অনুসারে</h3>
+            <h3>Category wise</h3>
             <ul style="list-style: none;color: black">
-                <li><a href="{{route('buy-products')}}">All Products(বিক্রয়ের জন্য সকল পণ্যসমূহ)</a></li>
+                <li><a href="{{route('buy-products')}}">All Products</a></li>
                 @foreach ($categories as $category)
                     <li><a href="{{ route('buy-products', ['category' => $category->slug]) }}">{{ $category->name }}</a></li>
                 @endforeach

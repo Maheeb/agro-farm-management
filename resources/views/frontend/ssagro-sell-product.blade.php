@@ -12,7 +12,7 @@
 
                 <div class="col-md-3">
                     <div class="sidebar">
-                        <h3>ক্যাটাগরি অনুসারে</h3>
+                        <h3>Category wise</h3>
                         <ul style="list-style: none;color: black">
 
                             <li><a href="{{route('sell-products')}}">All Products</a></li>

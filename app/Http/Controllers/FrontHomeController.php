@@ -57,7 +57,7 @@ class FrontHomeController extends Controller
         } else {
             $products = Product::take(12)->where('type',1);
 //            $categories = Category::all();
-            $categoryName="All Products (বিক্রয়ের জন্য সকল পণ্যসমূহ)";
+            $categoryName="All Products";
         }
 
 
@@ -172,7 +172,7 @@ class FrontHomeController extends Controller
         } else {
             $products = Product::take(12)->where('type',2);
 //            $categories = Category::all();
-            $categoryName="All Products (ক্রয়ের জন্য সকল পণ্যসমূহ)";
+            $categoryName="All Products";
         }
 
 

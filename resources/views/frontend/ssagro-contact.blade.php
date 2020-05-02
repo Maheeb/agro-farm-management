@@ -27,9 +27,9 @@
 
                             <h3>Address</h3>
                             <p>SS Agro Limited</p>
-                            <p>Sastapur (south Side Of Sadar Upazilla), Fatulla, Narayanganj</p>
-                            <p>Tel: 9716518</p>
-                            <p>Mobile: 01783135940,01935480122</p>
+                            <p>Quisque ac tellus at neque elementum pretium. Narayanganj</p>
+                            <p>Tel: 9700000</p>
+                            <p>Mobile: 01780000000,01900000002</p>
                             <p>Fax: 8136557</p>
 
                         </div>
@@ -102,7 +102,7 @@
                 <div class="col-md-12">
 
                     <div class="f_text">
-                        <h4>&copy; SS AGRO All Rights Reserved 2019</h4>
+                        <h4>&copy; AZMAEEN All Rights Reserved 2020</h4>
 
                     </div>
 
