@@ -1,6 +1,6 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
-##About This Project
+## About This Project
 
 This is comparatively a big Project. It is a small agricultural farm management project.
 This is made with Laravel and it is completely dynamic. There are employee sections, Product Sections, Order sections.
