@@ -1,0 +1,61 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .header_area{background: antiquewhite;
+        height: 466px;}
+    .top_menu_area {
+        margin-top: 3px;
+        /* margin-left: 4px; */
+        float: left;
+    }
+
+    .welcome_area{
+        min-height: 535px;
+    }
+
+    .featured_buy_area{
+
+        min-height: 994px;
+
+    }
+    .featured_sell_area{
+
+        min-height: 994px;
+    }
+
+
+
+    .contact_main_area{
+        min-height: 994px;
+
+    }
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    /*.header_area{background: antiquewhite;*/
+        /*height: 466px;}*/
+    /*.top_menu_area {*/
+        /*margin-top: 3px;*/
+        /*!* margin-left: 4px; *!*/
+        /*float: left;*/
+    /*}*/
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+
+
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+}

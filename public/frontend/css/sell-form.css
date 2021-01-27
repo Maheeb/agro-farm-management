@@ -1,0 +1,27 @@
+#imgzoom{
+    float: left;
+    text-align: center;
+    /*margin-left: 79px;*/
+    margin-top: 57px;
+}
+
+.imgzoom img{  }
+#description{    margin-top: 12px;}
+#price{text-align: center;}
+
+.cust_buy_form{
+    float: left;
+    margin-left: 157px;
+    margin-top: 56px;}
+
+
+.facts_text{
+
+    height: 200px;
+}
+
+.facts_text h3 {    margin-top: 51px;
+    color: brown;
+    border-bottom: 2px solid green;}
+.facts_text p {    color: initial;
+}

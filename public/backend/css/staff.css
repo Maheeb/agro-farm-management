@@ -1,0 +1,20 @@
+.cv_area{}
+
+.p_info{}
+.p_info h2 {
+    text-align: center;
+    border-bottom: 5px solid olivedrab;
+    color: brown;
+}
+.p_info h3{}
+.p_info img {
+    /* text-align: center; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.p_info p{font-size: 20px;}
+
+
+.salray_image_area{}
+.salray_image_area img{}
