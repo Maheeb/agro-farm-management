@@ -8,6 +8,10 @@ Admin will get notification when a new order is placed. Moreover, employees of t
 I have used multi level authentication here. I have used charts to show employee performacne.
 All the form fields are validated as well. Customer can buy agricultural product from this website as well as they can sell their goods as  company demands. :)
 
+
+Presentation Link: https://docs.google.com/presentation/d/1RyDDo-rADy5vVhrpLTWTJXSbRDG8uMTLsB93nwK9bOU/present#slide=id.p
+
+
 ## Glimpse of the website
 
 <img src="website_pics/FireShot Capture 081 - SS Agro - 127.0.0.1.png">
